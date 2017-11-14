@@ -1,0 +1,11 @@
+﻿  set_key.c
+  ncbc_enc.c
+  fcrypt.c
+  ede_enc.c
+  ecb_enc.c
+e:\workspace\snmp\snmpproject\snmpproject\libdes\ecb_enc.c(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          d:\vs2013\vc\include\stdio.h(356) : see declaration of 'sprintf'
+  des_enc.c
+  cbc_enc.c
+  Generating Code...
+  libdes.vcxproj -> E:\workspace\snmp\snmpProject\snmpProject\vs2013\libdes\Debug\libdes.lib

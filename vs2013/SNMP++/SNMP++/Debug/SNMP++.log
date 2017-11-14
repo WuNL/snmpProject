@@ -1,0 +1,51 @@
+﻿  vb.cpp
+  v3.cpp
+  uxsnmp.cpp
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\uxsnmp.cpp(261): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\uxsnmp.cpp(366): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868) : see declaration of 'inet_ntoa'
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\uxsnmp.cpp(484): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868) : see declaration of 'inet_ntoa'
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\uxsnmp.cpp(764): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+  usm_v3.cpp
+  timetick.cpp
+  target.cpp
+  snmpmsg.cpp
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\snmpmsg.cpp(288): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\snmpmsg.cpp(602): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1868) : see declaration of 'inet_ntoa'
+  sha.cpp
+  reentrant.cpp
+  pdu.cpp
+  oid.cpp
+  octet.cpp
+  notifyqueue.cpp
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\notifyqueue.cpp(373): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+          c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850) : see declaration of 'inet_addr'
+  msgqueue.cpp
+  msec.cpp
+  mp_v3.cpp
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\mp_v3.cpp(1035): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  md5c.cpp
+  log.cpp
+  IPv6Utility.cpp
+e:\workspace\snmp\snmpproject\snmpproject\snmp++\src\ipv6utility.cpp(66): warning C4005: 'EAFNOSUPPORT' : macro redefinition
+          d:\vs2013\vc\include\errno.h(94) : see previous definition of 'EAFNOSUPPORT'
+  integer.cpp
+  Generating Code...
+  Compiling...
+  idea.cpp
+  gauge.cpp
+  eventlistholder.cpp
+  eventlist.cpp
+  ctr64.cpp
+  counter.cpp
+  auth_priv.cpp
+  asn1.cpp
+  address.cpp
+  Generating Code...
+IPv6Utility.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  SNMP++.vcxproj -> E:\workspace\snmp\snmpProject\snmpProject\vs2013\SNMP++\Debug\SNMP++.lib
